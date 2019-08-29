@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="2hands" itemID="5d5d9f88-00000361" lastModified="1566416776">
+  <timeline>
+    <DOMTimeline name="2hands">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMSymbolInstance libraryItemName="heand1" symbolType="graphic" loop="loop">
+                      <matrix>
+                        <Matrix tx="293.6" ty="0.45"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point x="63.3" y="78.45"/>
+                      </transformationPoint>
+                    </DOMSymbolInstance>
+                    <DOMSymbolInstance libraryItemName="heand1" selected="true" symbolType="graphic" loop="loop">
+                      <matrix>
+                        <Matrix a="-1" tx="126.65"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point x="63.3" y="78.45"/>
+                      </transformationPoint>
+                    </DOMSymbolInstance>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

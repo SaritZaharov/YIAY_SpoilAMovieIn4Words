@@ -1,0 +1,28 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Y.p" itemID="5d669db4-0000024b" symbolType="graphic" lastModified="1567006132">
+  <timeline>
+    <DOMTimeline name="Y.p">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FF00FF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1214 50S2[1312 118 1312 182!1312 182[1312 220 1266 288!1266 288|834 934!834 934|834 1316!834 1316[834 1362 831 1385!831 1385[828 1408 812 1438!812 1438[796 1468 758 1480!758 1480[720 1492 656 1492!656 1492[592 1492 554 1480!554 1480
+[516 1468 500 1437!500 1437[484 1406 481 1383!481 1383[478 1360 478 1312!478 1312|478 934!478 934|46 288!46 288[0 220 0 182!0 182[0 118 88 59!88 59[176 0 214 0!214 0[252 0 274 16!274 16[308 38 346 98!346 98|656 594!656 594|966 98!966
+ 98[1004 38 1032 19!1032 19[1060 0 1097 0!1097 0[1134 0 1214 50"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

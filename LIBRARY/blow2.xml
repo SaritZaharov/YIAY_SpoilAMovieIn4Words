@@ -1,0 +1,69 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="blow2" itemID="5d682c82-00000275" symbolType="graphic" lastModified="1567108439">
+  <timeline>
+    <DOMTimeline name="blow2">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#EDF5F3"/>
+                        </FillStyle>
+                        <FillStyle index="2">
+                          <SolidColor color="#A03524"/>
+                        </FillStyle>
+                        <FillStyle index="3">
+                          <SolidColor color="#D84C07"/>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                            <VariablePointWidth>
+                              <WidthMarker position="0" left="0" right="0" type="corner"/>
+                              <WidthMarker position="0.5" left="0.5" right="0.5"/>
+                              <WidthMarker position="1" left="0" right="0" type="corner"/>
+                            </VariablePointWidth>
+                          </SolidStroke>
+                        </StrokeStyle>
+                        <StrokeStyle index="2">
+                          <SolidStroke scaleMode="normal" weight="0.5">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle1="2" strokeStyle="2" edges="!1101.5 195[#455.D5 #CE.66 1134 238!1134 238[1159 275 1151 307"/>
+                        <Edge fillStyle0="1" fillStyle1="1" strokeStyle="2" edges="!1099 191[#44B.CE #C0.8D 1101.5 195"/>
+                        <Edge fillStyle0="1" strokeStyle="2" edges="!1101.5 195[#44E.D5 #C2.F1 1104 195!1104 195[#44D.66 #C0.FD 1099 191"/>
+                        <Edge fillStyle1="1" strokeStyle="2" edges="!1151 307[1146 328 1125 347!1125 347[1050 418 805 361!805 361[559 304 379 357!379 357[77 414 18 350!18 350[-1 329 -7 302"/>
+                        <Edge fillStyle0="2" fillStyle1="1" strokeStyle="2" edges="!1004 284[1078 294 1151 307"/>
+                        <Edge strokeStyle="1" edges="!1107 152[1213 209 1201 321"/>
+                        <Edge fillStyle0="2" fillStyle1="3" strokeStyle="2" edges="!165 272[322 176 582 220!582 220[703 185 840 217!840 217[977 248 1004 284"/>
+                        <Edge fillStyle1="2" strokeStyle="2" edges="!-7 302[-17 259 38 202!38 202[77 165 79 166"/>
+                        <Edge fillStyle1="1" strokeStyle="2" edges="!79 166[384 -54 801 30!801 30[#399.3F #36.A4 1099 191"/>
+                        <Edge fillStyle0="3" fillStyle1="1" strokeStyle="2" edges="!165 272[#21E.1 #C5.0E 1004 284"/>
+                        <Edge fillStyle0="1" fillStyle1="2" strokeStyle="2" edges="!79 166[#269.8D #AA.FD 1101.5 195"/>
+                        <Edge fillStyle0="2" fillStyle1="1" strokeStyle="2" edges="!-7 302[51 287 165 272"/>
+                        <Edge strokeStyle="1" edges="!27 136[-90 217 -66 300"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
